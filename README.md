@@ -20,8 +20,10 @@
    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
 
   <img align="center" alt="Fran-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
- <img align="center" alt="Fran-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-  </div> 
+ <img align="center" alt="Fran-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="right" height=200em alt="Rafa-yoda " src="https://cdn.discordapp.com/attachments/838424879094825010/878794998236188712/Webp.net-gifmaker_2.gif"> 
+  </div>
+  
 
    ##
   <div>  
