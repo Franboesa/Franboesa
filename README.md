@@ -1,7 +1,7 @@
 ### Oii, eu sou a Franboesa
 
-- 🔭 Atualmente estou trabalhando com Front-End
-- 📒 Estudando CSS
+- 🔭 Atualmente estou trabalhando com Back-End
+- 📒 Estudando Python, CS50 e SQL
 - 👩🏻 Pronomes: Ela/Dela
 
 
