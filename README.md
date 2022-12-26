@@ -1,7 +1,7 @@
 ### Oii, eu sou a Franboesa
 
-- 🔭 Atualmente estou trabalhando com Back-End
-- 📒 Estudando Python, CS50 e SQL
+- 🔭 Atualmente estou trablahando como Analista de Suporte Técnico
+- 📒 Estudando Python, Mysql. 
 - 👩🏻 Pronomes: Ela/Dela
 
 
