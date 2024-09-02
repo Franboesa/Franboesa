@@ -1,7 +1,7 @@
 ### Oii, eu sou a Franboesa
 
 - 🔭 Atualmente estou trablahando como DEV/Analista de Suporte Pleno
-- 📒 Estudando Python, Mysql, R, PowerBI. 
+- 📒 Estudando Ciência de Dados e Análise de Comportamento, Javascript. 
 - 👩🏻 Pronomes: Ela/Dela
 
 
