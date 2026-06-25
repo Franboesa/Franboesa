@@ -1,7 +1,7 @@
 ### Oii, eu sou a Franboesa
 
-- 🔭 Atualmente estou trablahando como DEV/Analista de Suporte Pleno
-- 📒 Estudando Ciência de Dados e Análise de Comportamento, Javascript. 
+- 🔭 Atualmente estou trabalhando como Analista de Produto na empresa Sellentt.
+- 📒 Estudando Ciência de Dados e Análise de Comportamento, UX/UI e Product Management. 
 - 👩🏻 Pronomes: Ela/Dela
 
 
